@@ -24,3 +24,5 @@ Tentamos aplicar algumas funcionalidades de acessibilidade como opção de alto 
 ## Link do Figma:
 Abaixo está o Link que leva ao projeto:
 https://www.figma.com/design/Ao9CLZvdJ6Gosr9A1dCuLB/Hi-Fi-Prototype?node-id=0-1&t=efoOb5P7iI2gftEk-1
+
+O pdf no repositório refere-se ao protótipo de baixa fidelidade que utilizamos para coletar algumas informações.
