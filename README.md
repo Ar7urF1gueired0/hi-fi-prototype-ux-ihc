@@ -18,7 +18,7 @@ Iniciamos com protótipos de baixa fidelidade (papel e rabiscos) para validar a 
 ### 2. Pesquisa com Usuários & Insights
 A partir do teste do protótipo de baixa fidelidade, juntamente com as opiniões dos usuários registradas antes da prototipação, conseguimos condensar os problemas e resolvê-los na prototipação de alta fidelidade. Não significa que está pronto para produção, um protótipo de alta fidelidade também pode nos levar de volta à etapa de ideação.
 
-### 3. Acessibilidade (a11y)
+### 3. Acessibilidade
 Tentamos aplicar algumas funcionalidades de acessibilidade como opção de alto contraste, modo daltonismo além de uma promessa de 'VoiceOver' que não incluímos no protótipo do Figma.
 
 ## Link do Figma:
